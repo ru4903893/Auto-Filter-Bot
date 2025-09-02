@@ -11,4 +11,3 @@ requests
 qrcode
 Pillow
 pytz
-gunicorn
